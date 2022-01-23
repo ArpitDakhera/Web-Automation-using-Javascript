@@ -1,0 +1,16 @@
+{
+  "name": "hacking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ad.js",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "puppeteer": "^12.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
